@@ -1,4 +1,4 @@
-Web04 App
+totsuki07 App
 ------------------
 
 <a href="https://heroku.com/deploy">
